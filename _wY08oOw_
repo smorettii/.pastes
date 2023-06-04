@@ -1,1 +1,1 @@
-return print, print, print, print, print, print, print, print, print, print, print, print, print, print, print, print, print, print
+return print, error, warn
